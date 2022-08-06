@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+      "target": "ES6", //해당 버전으로 컴파일
+      "module": "commonjs", //해당 모듈 방식으로 컴파일
+      "outDir": "./dist", //컴파일 후 js 파일이 생성되는 곳
+      "rootDir": ".", //루트 폴더
+      "strict": true, //모든 엄격한 타입체킹 옵션 
+      "moduleResolution": "node", //모듈 해석 방법 설정: 'node' (Node.js)
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,            /* Ensure that casing is correct in imports. */
+      "typeRoots": ["./src/types", "./node_modules/@types"], 
+  },
+  "include": [
+      "./src/**/*",
+  ],
+  "exclude": [
+      "node_modules",
+      "src/test",
+      "**/*.spec.ts",
+      "**/*.test.ts",
+  ]
+}
