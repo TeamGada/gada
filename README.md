@@ -54,8 +54,8 @@
 
 | Resource | Description |
 | ------ | ------ |
-| 💻[**API**](https://kdt-gitlab.elice.io/sw_track/class_02_seoul/web_project_2/team5/gotrip/-/wikis/API) | 🗒[**기능 정리**](https://kdt-gitlab.elice.io/sw_track/class_02_seoul/web_project_2/team5/gotrip/-/wikis/%EA%B8%B0%EB%8A%A5-%EC%A0%95%EB%A6%AC) | 
-|📋[**스토리보드**](https://kdt-gitlab.elice.io/sw_track/class_02_seoul/web_project_2/team5/gotrip/-/wikis/%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C) | 🔧[**와이드프레임**](https://kdt-gitlab.elice.io/sw_track/class_02_seoul/web_project_2/team5/gotrip/-/wikis/%EC%99%80%EC%9D%B4%EC%96%B4-%ED%94%84%EB%A0%88%EC%9E%84)|
-| 🧰[**ERD**](https://kdt-gitlab.elice.io/sw_track/class_02_seoul/web_project_2/team5/gotrip/-/wikis/ERD) | 🏙[**컨벤션**](https://kdt-gitlab.elice.io/sw_track/class_02_seoul/web_project_2/team5/gotrip/-/wikis/%EC%BB%A8%EB%B2%A4%EC%85%98) |
-| 🚂[서비스 구조도](https://kdt-gitlab.elice.io/sw_track/class_02_seoul/web_project_2/team5/gotrip/-/wikis/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%A1%B0%EB%8F%84) | --- |
+| 💻[**API**](https://github.com/TeamGada/gada/wiki/API) | 🗒[**기능 정리**](https://github.com/TeamGada/gada/wiki/%EA%B8%B0%EB%8A%A5-%EC%A0%95%EB%A6%AC) | 
+|📋[**스토리보드**](https://github.com/TeamGada/gada/wiki/%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C) | 🔧[**와이드프레임**](https://github.com/TeamGada/gada/wiki/%EC%99%80%EC%9D%B4%EC%96%B4-%ED%94%84%EB%A0%88%EC%9E%84)|
+| 🧰[**ERD**](https://github.com/TeamGada/gada/wiki/ERD) | 🏙[**컨벤션**](https://github.com/TeamGada/gada/wiki/%EC%BB%A8%EB%B2%A4%EC%85%98) |
+| 🚂[서비스 구조도](https://github.com/TeamGada/gada/wiki/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%A1%B0%EB%8F%84) | --- |
 
